@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Oppening party!",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis, voluptatibus nemo qui rerum eos quas. Totam ut ex ad velit enim cupiditate vitae expedita suscipit distinctio, neque et earum.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
